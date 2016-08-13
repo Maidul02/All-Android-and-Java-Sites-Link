@@ -19,6 +19,10 @@ Welcome to the All-Android-and-Java-Sites-Link!
 * [09. WideSkills JAVA Tutorial](http://www.wideskills.com/java-tutorial)<br>
 * [10. Programming notes Java Programming](http://www.ntu.edu.sg/home/ehchua/programming/index.html#Java)<br>
 * [11. Java Basic](http://java2s.com/)<br>
+* [12. tutorialspoint-(Java Tutorials)](http://www.tutorialspoint.com/java_technology_tutorials.htm)<br>
+* [13. Java Interview Questions](http://www.tutorialspoint.com/java/java_interview_questions.htm)<br>
+* [14. Java Programming Examples](http://www.tutorialspoint.com/javaexamples/index.htm)<br>
+* [15. Java tutorial for beginners with examples](http://beginnersbook.com/java-tutorial-for-beginners-with-examples/)<br>
 
 
 ***
