@@ -44,6 +44,7 @@ Welcome to the All-Android-and-Java-Sites-Link!
 ### ফেসবুক গ্রুপ<br>
 * [01. Android Developers of Bangladesh](https://web.facebook.com/groups/android.devs.bd/) <br>
 * [02. জাভা প্রোগ্রামিং এর হাতেখড়ি - A closer look at Java Programming](https://web.facebook.com/Shariftech.JavaProgramming)<br>
+* [03. বাংলায় জাভা প্রোগ্রামিং](https://web.facebook.com/banglayjava/?fref=nf)<br>
 
 ***
 
