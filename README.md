@@ -5,6 +5,7 @@ Welcome to the All-Android-and-Java-Sites-Link!
 * [02. অ্যান্ড্রয়েড অ্যাপ্লিকেশন ডেভেলপমেন্ট (Android Application Development)](http://www.shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/android-app-development/)<br>
 * [03. Android Tutorial - Android Introduction](http://www.java2s.com/Tutorials/Android/Android_Tutorial/index.htm)<br>
 * [04. Developer-Design](https://developer.android.com/design/index.html)<br>
+* [05. tutorialspoint](http://www.tutorialspoint.com//android/index.htm)<br>
 
 ***
 
