@@ -58,6 +58,6 @@ Welcome to the All-Android-and-Java-Sites-Link!
 * [04. Android Sliding Menu using Navigation Drawer](http://www.androidhive.info/2013/11/android-sliding-menu-using-navigation-drawer/)<br>
 * [05. Android Button Maker](http://angrytools.com/android/button/)<br>
 * [06. Creating Side Menu Navigation Drawer in Android](http://wptrafficanalyzer.in/blog/creating-side-menu-navigation-drawer-in-android/)<br>
-
+* [07. 80+ Best Resources for Android Developers 2016](http://www.anysoftwaretools.com/best-android-development-resources/)<br>
 
 ***
