@@ -1,4 +1,4 @@
-Welcome to the All-Android-and-Java-Sites-Link!
+Welcome to the All-Android-and-Java-Sites-Link wiki!
 
 ## অ্যান্ড্রয়েড অ্যাপস<br>
 * [01. বাংলায় অ্যান্ড্রয়েড সহায়িকা](https://androidbangla.gitbooks.io/android-bangla/content/)<br>
@@ -15,7 +15,7 @@ Welcome to the All-Android-and-Java-Sites-Link!
 * [03. সেরা প্রোগ্রামিং জাভা প্রোগ্রামিং](http://www.techtunes.com.bd/java/tune-id/193860)<br>
 * [04. ১৬ পর্বের সেরা প্রোগ্রামিং জাভা প্রোগ্রামিং চেইন](http://www.techtunes.com.bd/chain-tunes/best-programming-java-programming)<br>
 * [05. জাভা প্রোগ্রামিং ল্যাঙ্গুয়েজ, কম্পাইলার ও একটি বই](http://www.techtunes.com.bd/programming/tune-id/61293)<br>
-* [06.  Java How to Program by Deitel.pdf](https://drive.google.com/file/d/0Bx4b4hwCE2asempXeEdyRUdYQnc/view)<br>
+* [06. Java How to Program by Deitel.pdf](https://drive.google.com/file/d/0Bx4b4hwCE2asempXeEdyRUdYQnc/view)<br>
 * [07. Java Example Codes and Tutorials](http://www.roseindia.net/java/)<br>
 * [08. Java Tutorial](http://www.java2s.com/Tutorial/Java/CatalogJava.htm)<br>
 * [09. WideSkills JAVA Tutorial](http://www.wideskills.com/java-tutorial)<br>
@@ -59,5 +59,10 @@ Welcome to the All-Android-and-Java-Sites-Link!
 * [05. Android Button Maker](http://angrytools.com/android/button/)<br>
 * [06. Creating Side Menu Navigation Drawer in Android](http://wptrafficanalyzer.in/blog/creating-side-menu-navigation-drawer-in-android/)<br>
 * [07. 80+ Best Resources for Android Developers 2016](http://www.anysoftwaretools.com/best-android-development-resources/)<br>
+* [08. Google Maps APIs](https://developers.google.com/maps/documentation/android-api/start)<br>
+* [09. A Simple Calculator in Android](http://wptrafficanalyzer.in/blog/a-simple-calculator-in-android/)<br>
+* [10. How to create a Calculator App for Android](http://mrbool.com/how-to-create-a-calculator-app-for-android/28100)<br>
+
+
 
 ***
