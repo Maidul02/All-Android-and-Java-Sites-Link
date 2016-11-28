@@ -62,7 +62,11 @@ Welcome to the All-Android-and-Java-Sites-Link wiki!
 * [08. Google Maps APIs](https://developers.google.com/maps/documentation/android-api/start)<br>
 * [09. A Simple Calculator in Android](http://wptrafficanalyzer.in/blog/a-simple-calculator-in-android/)<br>
 * [10. How to create a Calculator App for Android](http://mrbool.com/how-to-create-a-calculator-app-for-android/28100)<br>
+* [11. BottomBar.](https://github.com/roughike/BottomBar/blob/master/app/src/main/java/com/example/bottombar/sample/ThreeTabsQRActivity.java)<br>
+* [12. এন্ড্রয়েড গেম ডেভেলপমেন্ট টিউটোরিয়াল](http://jakir.me/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%A1-%E0%A6%97%E0%A7%87%E0%A6%AE-%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D)<br>
 
 
 
 ***
+
+
