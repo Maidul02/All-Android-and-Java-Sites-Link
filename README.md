@@ -65,6 +65,7 @@ Welcome to the All-Android-and-Java-Sites-Link wiki!
 * [11. BottomBar.](https://github.com/roughike/BottomBar/blob/master/app/src/main/java/com/example/bottombar/sample/ThreeTabsQRActivity.java)<br>
 * [12. এন্ড্রয়েড গেম ডেভেলপমেন্ট টিউটোরিয়াল](http://jakir.me/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%A1-%E0%A6%97%E0%A7%87%E0%A6%AE-%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D)<br>
 * [13. Table](https://developer.android.com/guide/topics/ui/layout/grid.html)<br>
+* [14. How to add Google Adsense Ads to your Android App](http://flyloopproject.blogspot.com/2010/06/how-to-add-google-adsense-ads-to-your_27.html)
 
 
 ***
